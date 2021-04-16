@@ -1,0 +1,1 @@
+# Tabular-data-generation-using-Generative-Adversarial-Nets
